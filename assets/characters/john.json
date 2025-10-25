@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "John idle"
+		},
+		{
+			"offsets": [
+				0,
+				-350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "John left"
+		},
+		{
+			"offsets": [
+				0,
+				-350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "John down"
+		},
+		{
+			"offsets": [
+				0,
+				-350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "John up"
+		},
+		{
+			"offsets": [
+				0,
+				-350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "John right"
+		},
+		{
+			"offsets": [
+				0,
+				-350
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "sad",
+			"loop": false,
+			"name": "John sad"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/John",
+	"position": [
+		0,
+		-485
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 9.99999999999998
+}

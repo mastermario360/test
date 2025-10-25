@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stage.png"><SubTexture name="default0000" x="0" y="0" width="182" height="97" frameX="0" frameY="0" frameWidth="182" frameHeight="97" />
+<SubTexture name="transition0000" x="182" y="0" width="182" height="97" frameX="0" frameY="0" frameWidth="182" frameHeight="97" />
+<SubTexture name="transition0001" x="0" y="97" width="182" height="97" frameX="0" frameY="0" frameWidth="182" frameHeight="97" />
+<SubTexture name="transition0002" x="182" y="97" width="182" height="97" frameX="0" frameY="0" frameWidth="182" frameHeight="97" />
+<SubTexture name="transition0003" x="0" y="194" width="182" height="97" frameX="0" frameY="0" frameWidth="182" frameHeight="97" />
+<SubTexture name="transition0004" x="182" y="194" width="182" height="97" frameX="0" frameY="0" frameWidth="182" frameHeight="97" />
+<SubTexture name="transition0005" x="364" y="0" width="182" height="97" frameX="0" frameY="0" frameWidth="182" frameHeight="97" />
+<SubTexture name="transition0006" x="364" y="97" width="182" height="97" frameX="0" frameY="0" frameWidth="182" frameHeight="97" />
+<SubTexture name="transition0007" x="364" y="194" width="182" height="97" frameX="0" frameY="0" frameWidth="182" frameHeight="97" />
+</TextureAtlas>
